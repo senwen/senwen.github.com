@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: blog | active flux]]></title>
+  <link href="http://activeflux.com/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://activeflux.com/"/>
+  <updated>2012-08-27T09:26:48-07:00</updated>
+  <id>http://activeflux.com/</id>
+  <author>
+    <name><![CDATA[sen wen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[coming soon ...]]></title>
+    <link href="http://activeflux.com/blog/2012/08/27/coming-soon-dot-dot-dot/"/>
+    <updated>2012-08-27T09:01:00-07:00</updated>
+    <id>http://activeflux.com/blog/2012/08/27/coming-soon-dot-dot-dot</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
